@@ -14,15 +14,14 @@
 
 ### Who Am I
 - 🌱 저는 지금 Spring, Docker를 공부하고 있습니다
-- 🥇 제 전공은 소프트웨어학과 입니다
 
 ### Experience
 - 🎓 경북대학교 소프트웨어학과 (2018.03 ~ 2024.02)
 - 🌍 SSAFY (Java 전공반) (2024.01 ~ )
 
 ### Study
-- <a src="https://github.com/Algorithm-with-SSAFY/Algorithm-Study">알고리즘 스터디 (2024.03 ~ )</a>
-- <a src="https://github.com/SSAFY11th-Gwangju04-WebStudy/SSAFY11th-Gwangju04-WebStudy">웹 개발 스터디 (2024.04 ~ ) </a>
+<a src="https://github.com/Algorithm-with-SSAFY/Algorithm-Study">알고리즘 스터디 (2024.03 ~ )</a>
+<a src="https://github.com/SSAFY11th-Gwangju04-WebStudy/SSAFY11th-Gwangju04-WebStudy">웹 개발 스터디 (2024.04 ~ ) </a>
 
 ### Project
 <details>
