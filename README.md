@@ -24,8 +24,12 @@
 <a src="https://github.com/SSAFY11th-Gwangju04-WebStudy/SSAFY11th-Gwangju04-WebStudy">웹 개발 스터디 (2024.04 ~ ) </a>
 
 ### Project
-<details>
-<summary><h1>Bats</h1></summary>
+
+#### Bats
+
+ ```
+ 머신러닝을 이용한 비트코인 자동매매 어플리케이션
+ ```
 
 - 프로젝트 기간 : 2023.06 ~ 2023.10
 - 프로젝트 링크 : https://github.com/Lee-JoungHyun/BATS
@@ -35,16 +39,10 @@
    - MySQL
    - SQLite
    - AWS
-- 핵심 서비스
-   ```
-   머신러닝을 이용한 비트코인 자동매매 어플리케이션
-   ```
 
 
-</details>
 
-<details>
-<summary><h1>Wheel-less</h1></summary>
+#### Wheel-less
 
 ```
 한국 관광공사 무장애 여행 API를 이용한
@@ -60,8 +58,6 @@
    - MyBaties
    - MySQL
    - Vue.js
-
-</details>
 
 <br><br>
 
