@@ -24,8 +24,8 @@
 ---
 
 ## Study
-|:종류:|:기간:|:링크:|
-|---|---|---|
+|종류|기간|링크|
+|:---:|:---:|:---:|
 |알고리즘 스터디|2024.03 ~|https://github.com/Algorithm-with-SSAFY/The-Second-Half-Algorithm-Study|
 |웹 개발 스터디|2024.04 ~ |https://github.com/SSAFY11th-Gwangju04-WebStudy/SSAFY11th-Gwangju04-WebStudy|
 
