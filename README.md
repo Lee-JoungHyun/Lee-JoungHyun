@@ -25,7 +25,7 @@
 
 ### Project
 <details>
-<summary>Bats</summary>
+<summary><h1>Bats</h1></summary>
 
 - 프로젝트 기간 : 2023.06 ~ 2023.10
 - 프로젝트 링크 : https://github.com/Lee-JoungHyun/BATS
@@ -37,14 +37,14 @@
    - AWS
 - 핵심 서비스
    ```
-   머신러닝을 이용한 비트코인 자동매매 어플리케이션\
+   머신러닝을 이용한 비트코인 자동매매 어플리케이션
    ```
 
 
 </details>
 
 <details>
-<summary>Wheel-less</summary>
+<summary><h1>Wheel-less</h1></summary>
 
 ```
 한국 관광공사 무장애 여행 API를 이용한
