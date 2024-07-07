@@ -16,6 +16,7 @@
 
 ## Who Am I
 - 🌱 저는 지금 Spring, Docker를 공부하고 있습니다
+- <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndgus5">
 
 ## Experience
 - 🎓 경북대학교 소프트웨어학과 (2018.03 ~ 2024.02)
@@ -72,9 +73,8 @@
 <br><br>
 
 <p>
-  <img height="130em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndgus5">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JoungHyun&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JoungHyun&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 
