@@ -71,6 +71,12 @@
 
 ---
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JoungHyun&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&theme=radical)
 
 <a href="https://github.com/Lee-JoungHyun"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JoungHyun&layout=compact&theme=nord&hide_border=true" /></a> 
