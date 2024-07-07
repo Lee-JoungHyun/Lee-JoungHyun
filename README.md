@@ -1,6 +1,6 @@
 # Hi, i'm LeeJH  😉
 
-### 🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,25 +14,25 @@
 
 ---
 
-### Who Am I
+## Who Am I
 - 🌱 저는 지금 Spring, Docker를 공부하고 있습니다
 
-### Experience
+## Experience
 - 🎓 경북대학교 소프트웨어학과 (2018.03 ~ 2024.02)
 - 🌍 SSAFY (Java 전공반) (2024.01 ~ )
 
 ---
 
-### Study
+## Study
 <a src="https://github.com/Algorithm-with-SSAFY/Algorithm-Study">알고리즘 스터디 (2024.03 ~ )</a>
 <a src="https://github.com/SSAFY11th-Gwangju04-WebStudy/SSAFY11th-Gwangju04-WebStudy">웹 개발 스터디 (2024.04 ~ ) </a>
 
 ---
 
 
-### Project
+## Project
 
-#### Bats
+### Bats
 
  ```
  머신러닝을 이용한 비트코인 자동매매 어플리케이션
@@ -49,7 +49,7 @@
 
 
 
-#### Wheel-less
+### Wheel-less
 
 ```
 한국 관광공사 무장애 여행 API를 이용한
