@@ -28,7 +28,7 @@
 <summary>Bats</summary>
 
 - 프로젝트 기간 : 2023.06 ~ 2023.10
-- 프로젝트 링크
+- 프로젝트 링크 : https://github.com/Lee-JoungHyun/BATS
 - 핵심 기술
    - Andriod Studio (Java)
    - Django
@@ -36,7 +36,9 @@
    - SQLite
    - AWS
 - 핵심 서비스
-   - AWS 서버에서 
+   ```
+   머신러닝을 이용한 비트코인 자동매매 어플리케이션\
+   ```
 
 
 </details>
