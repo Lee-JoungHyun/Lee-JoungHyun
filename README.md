@@ -77,11 +77,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&theme=radical)
-
-<a href="https://github.com/Lee-JoungHyun"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JoungHyun&layout=compact&theme=nord&hide_border=true" /></a> 
-
-
 
 
 
