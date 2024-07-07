@@ -72,8 +72,9 @@
 <br><br>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JoungHyun&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndgus5">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-JoungHyun&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndgus5)](https://solved.ac/dlwndgus5)
