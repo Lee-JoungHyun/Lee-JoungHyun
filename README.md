@@ -12,12 +12,16 @@
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
+---
+
 ### Who Am I
 - 🌱 저는 지금 Spring, Docker를 공부하고 있습니다
 
 ### Experience
 - 🎓 경북대학교 소프트웨어학과 (2018.03 ~ 2024.02)
 - 🌍 SSAFY (Java 전공반) (2024.01 ~ )
+
+---
 
 ### Study
 <a src="https://github.com/Algorithm-with-SSAFY/Algorithm-Study">알고리즘 스터디 (2024.03 ~ )</a>
@@ -64,6 +68,7 @@
 
 <br><br>
 
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-JoungHyun&show_icons=true&theme=radical)
 
