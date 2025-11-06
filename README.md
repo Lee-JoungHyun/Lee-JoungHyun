@@ -20,30 +20,41 @@
 - 🌱 저는 지금 Spring, Docker를 공부하고 있습니다
 
 ## Experience
+- 흥국생명 차세대 프로젝트 (TSIS) (2025.01 ~ )
+- 🌍 SSAFY (Java 전공반) (2024.01 ~ 2024.12)
 - 🎓 경북대학교 소프트웨어학과 (2018.03 ~ 2024.02)
-- 🌍 SSAFY (Java 전공반) (2024.01 ~ )
+
 
 ---
 
 ## Project
 
-### Bats
+## 흥국생명 차세대 프로젝트
 
- ```
- 머신러닝을 이용한 비트코인 자동매매 어플리케이션
- ```
+```
+신계약 설계, 개발 진행
+진단, 적부, 손보식 선심사 파트 맡아 분석, 설계, 개발 진행중
+사용 프레임워크: BXM, eXBuilder6
+```
 
-- 프로젝트 기간 : 2023.06 ~ 2023.10
-- 프로젝트 링크 : https://github.com/Lee-JoungHyun/BATS
-- 핵심 기술
-   - Andriod Studio (Java)
-   - Django
-   - MySQL
-   - SQLite
-   - AWS
+### EDITH
 
+```
+참여역할: Flask 백엔드, RAG 구현
+상세내용: GitLab 연동 LLM(RAG) 코드리뷰, 포트폴리오 생성 서비스 Flask 서버, LangChain 활용한 RAG 구현
+```
 
+### 짤짤이
+```
+소비 기반 소액 투자 서비스
+Spring Boot 백엔드, SpringBatch 를 사용한 주식 예약 구매 구현, 주식 암호화폐 실시간 가격 데이터 스트리밍 을 맡아 진행
+```
 
+### Story-Boat
+```
+Web-RTC 기술을 활용한 실시간 소설 공통 집필 서비스 SpringBoot를 이용한 백엔드 개발
+Node.js 시그널링 서버, Docker AWS 환경 배포, Jekins 를 사용한 CI/CD 구축을 맡아 진행
+```
 ### Wheel-less
 
 ```
@@ -62,6 +73,25 @@
    - Vue.js
 
 ---
+
+### Bats
+
+ ```
+ 머신러닝을 이용한 비트코인 자동매매 어플리케이션
+ ```
+
+- 프로젝트 기간 : 2023.06 ~ 2023.10
+- 프로젝트 링크 : https://github.com/Lee-JoungHyun/BATS
+- 핵심 기술
+   - Andriod Studio (Java)
+   - Django
+   - MySQL
+   - SQLite
+   - AWS
+
+
+
+
 
 ## Study
 |종류|기간|링크|
