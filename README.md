@@ -17,7 +17,7 @@
 ## Who Am I
 <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwndgus5">
 
-- 🌱 저는 지금 Spring, Docker를 공부하고 있습니다
+- 🌱 저는 지금 흥국생명 차세대 프로젝트를 진행하고 있습니다
 
 ## Experience
 - 흥국생명 차세대 프로젝트 (TSIS) (2025.01 ~ )
@@ -29,13 +29,20 @@
 
 ## Project
 
-## 흥국생명 차세대 프로젝트
+### 흥국생명 차세대 프로젝트
 
 ```
 신계약 설계, 개발 진행
 진단, 적부, 손보식 선심사 파트 맡아 분석, 설계, 개발 진행중
 사용 프레임워크: BXM, eXBuilder6
 ```
+- 프로젝트 기간 : 2025.01 ~ 
+- 핵심 기술
+   - BXM (Spring 기반 프레임워크)
+   - SpringBatch
+   - eXBuilder
+   - Oracle
+ 
 
 ### EDITH
 
@@ -43,18 +50,39 @@
 참여역할: Flask 백엔드, RAG 구현
 상세내용: GitLab 연동 LLM(RAG) 코드리뷰, 포트폴리오 생성 서비스 Flask 서버, LangChain 활용한 RAG 구현
 ```
+- 프로젝트 기간 : 2024.11 ~ 2024.12
+- 핵심 기술
+   - LangChain
+   - Flask
+   - RAG
+
 
 ### 짤짤이
 ```
 소비 기반 소액 투자 서비스
 Spring Boot 백엔드, SpringBatch 를 사용한 주식 예약 구매 구현, 주식 암호화폐 실시간 가격 데이터 스트리밍 을 맡아 진행
 ```
+- 프로젝트 기간 : 2024.10 ~ 2024.11
+- 핵심 기술
+   - SpringBoot
+   - SpringBatch
+   - PostgreSQL
+   - Spring Data JPA
+   - React
 
 ### Story-Boat
 ```
 Web-RTC 기술을 활용한 실시간 소설 공통 집필 서비스 SpringBoot를 이용한 백엔드 개발
 Node.js 시그널링 서버, Docker AWS 환경 배포, Jekins 를 사용한 CI/CD 구축을 맡아 진행
 ```
+- 프로젝트 기간 : 2024.8 ~ 2024.9
+- 핵심 기술
+   - SpringBoot
+   - MySql
+   - Spring Data JPA
+   - Node.js
+   - Web-RTC
+
 ### Wheel-less
 
 ```
