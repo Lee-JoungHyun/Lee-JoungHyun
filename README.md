@@ -29,14 +29,15 @@
 
 ## Project
 
-### 흥국생명 차세대 프로젝트
+### 흥국생명 기간계 차세대 프로젝트
 
 ```
-신계약 설계, 개발 진행
-진단, 적부, 손보식 선심사 파트 맡아 분석, 설계, 개발 진행중
-사용 프레임워크: BXM, eXBuilder6
+신계약팀의 심사파트
+손보식 선심사 일부와 진단, 적부 파트를 맡아 분석, 설계, 개발 진행중
+
+Spectrum + ProC 기반의 ASIS 코드를 BXM, eXBuilder6 로 전환
 ```
-- 프로젝트 기간 : 2025.01 ~ 
+- 프로젝트 기간 : 2025.01 ~ 2025.05
 - 핵심 기술
    - BXM (Spring 기반 프레임워크)
    - SpringBatch
@@ -82,23 +83,6 @@ Node.js 시그널링 서버, Docker AWS 환경 배포, Jekins 를 사용한 CI/C
    - Spring Data JPA
    - Node.js
    - Web-RTC
-
-### Wheel-less
-
-```
-한국 관광공사 무장애 여행 API를 이용한
-여행지 접근성 시설 정보를 제공하고
-사용자에게 추가 정보를 받아 GPT API를 이용해 데이터를 전처리한 후
-관광공사 API에 수정 요청하는 Web Application 입니다
-```
-
-- 프로젝트 기간 : 2024.05 ~ 2024.06
-- 프로젝트 링크 
-- 핵심 기술
-   - SpringBoot
-   - MyBaties
-   - MySQL
-   - Vue.js
 
 ---
 
