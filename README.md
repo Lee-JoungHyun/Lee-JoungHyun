@@ -50,6 +50,8 @@ Spectrum + ProC 기반의 ASIS 코드를 BXM, eXBuilder6 로 전환
 ```
 참여역할: Flask 백엔드, RAG 구현
 상세내용: GitLab 연동 LLM(RAG) 코드리뷰, 포트폴리오 생성 서비스 Flask 서버, LangChain 활용한 RAG 구현
+
+수상: SSAFY 자율프로젝트 광주 1등으로 결선 진출 (프로젝트 우수상 수상)
 ```
 - 프로젝트 기간 : 2024.11 ~ 2024.12
 - 핵심 기술
